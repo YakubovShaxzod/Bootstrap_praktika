@@ -1,0 +1,168 @@
+body{
+    background-image: url("../images/color_body_bg_image.jpg");
+}
+.bg01 {
+    background-color: #c8e9f0;
+
+}
+.img01{
+
+    width: 25px ;
+    height: 25px ;
+}
+.tex01{
+    font-size: 15px !important;
+    width: 25px ;
+    height: 25px ;
+}
+.b01{
+    margin-left: -3px !important;
+    margin-top: -5px !important;
+}
+.mar01{
+    margin-left: 380px !important;
+
+}
+.ml02{
+    margin-left: 20%;
+
+}
+.container{
+    color: #535550!important;
+
+}
+p{
+    font-size: 13px !important;
+
+}
+.bor01{
+    border-right: 4px solid  #01d4c5!important;
+
+}
+.bor02{
+    border-left: 1px solid #01d4c5!important;
+
+}
+.bg02{
+    background-color: #00d4c5;
+
+}
+.bor03{
+    border-left: 1px solid white;
+
+}
+.img02{
+    width: 50px !important;
+    height: 50px !important;
+
+}
+
+.bag03{
+    border-left: 1px solid white;
+
+}
+.box0{
+    box-shadow: 20px 20px 30px gray !important;
+    width: 300px !important;
+    height: 150px !important;
+    margin-top: 100px !important;
+
+}
+.box01{
+    box-shadow: 20px 20px 30px gray !important;
+    width: 400px !important;
+    height: 150px !important;
+    margin-top: 100px !important;
+
+}
+.ml02{
+    margin-left: 100px !important;
+
+}
+.img03{
+    width: 580px !important;
+    height: 350px !important;
+}
+.row01{
+    bottom: 250px !important;
+    left: 400px !important;
+
+}
+.in01{
+    background-color: transparent !important;
+    border: 1px solid transparent !important;
+
+}
+.m01{
+
+}
+.row02{
+    bottom: 120px!important;
+    left: 100px!important;
+}
+.le01{
+    bottom: 65px;
+    left: 100px !important;
+}
+.text01{
+    border-radius: 6px !important;
+    background-color: black;
+    padding-top: 10px !important;
+    width: 200px  !important;
+    left: 710px !important;
+    bottom: 100px !important;
+}
+.fot01{
+    width: 96%;
+    border: 1px solid lightgray;
+}
+.bor04{
+    border-right: 1px solid lightgray !important;
+
+}
+.img04{
+    width: 48px !important;
+    height: 48px !important;
+    border-radius: 10px !important;
+}
+.img06{
+    width: 50px !important;
+    height: 50px !important;
+}
+.img05 {
+    width: 100px !important;
+    height: 40px !important;
+
+}
+.mar04{
+    margin-left: 300px !important;
+
+}
+.bg03{
+    background-color: #685e52 !important;
+
+}
+.btn0{
+    border-radius: 20px!important;
+    position: sticky;
+    bottom: 5%;
+    z-index: 1020;
+    left: 90%;
+}
+.box01{
+    position: relative;
+    z-index: 1000!important;
+    left: 50px !important;
+}
+.box0{
+    position: relative;
+    z-index: 1000!important;
+    right: 5px !important;
+}
+.py4{
+    box-sizing: border-box !important;
+}
+.navbag{
+    background-color: whitesmoke !important;
+
+}
